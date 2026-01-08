@@ -18,10 +18,10 @@ I work with data to uncover patterns, evaluate performance, and support data dri
 - **[Retail Demand Signals and Projections](https://github.com/kaioopacheco/retail-demand-signals-and-projections-olist)** *(Python)*  
   Time series analysis and demand projection based on historical retail data.
 
-- **Marketing Campaign Analysis** *(SQL)*  
+- **[Marketing Campaign Analysis](https://github.com/kaioopacheco/marketing-campaign-analysis)** *(SQL)*  
   Performance analysis of marketing campaigns with a focus on effectiveness and engagement.
 
-- **Content Based Drop-off Analysis in OTT Streaming** *(R)*  
+- **[Content Based Drop-off Analysis in OTT Streaming](https://github.com/kaioopacheco/contend-based-drop-off-analysis)** *(R)*  
   Viewer behavior and content engagement analysis in a streaming platform context.
 
 ### 🔗 Links

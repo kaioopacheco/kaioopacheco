@@ -12,7 +12,7 @@ I work with data to uncover patterns, evaluate performance, and support data dri
 - **Data Visualization:** Tableau, Power BI, Excel, Google Sheets
 
 ### 📌 Featured Projects
-- **Discount Dependency in RetailCo Net Revenue** *(SQL and Python)*  
+- **[Discount Dependency in RetailCo Net Revenue](https://github.com/kaioopacheco/discount-dependency-retailco)** *(SQL and Python)*  
   Analysis of how discount strategies influence net revenue in a retail environment.
 
 - **Retail Demand Signals and Projections** *(Python)*  

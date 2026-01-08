@@ -1,4 +1,4 @@
-## Hi, I'm Kaio 👋
+## Hi, I'm Kaio!
 
 **Data Analyst based in Toronto, Canada**  
 Focused on Marketing, Retail and Demand / Projection Analytics
@@ -15,7 +15,7 @@ I work with data to uncover patterns, evaluate performance, and support data dri
 - **[Discount Dependency in RetailCo Net Revenue](https://github.com/kaioopacheco/discount-dependency-retailco)** *(SQL and Python)*  
   Analysis of how discount strategies influence net revenue in a retail environment.
 
-- **Retail Demand Signals and Projections** *(Python)*  
+- **[Retail Demand Signals and Projections](https://github.com/kaioopacheco/retail-demand-signals-and-projections-olist)** *(Python)*  
   Time series analysis and demand projection based on historical retail data.
 
 - **Marketing Campaign Analysis** *(SQL)*  

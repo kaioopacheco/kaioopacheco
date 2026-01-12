@@ -25,6 +25,6 @@ I work with data to uncover patterns, evaluate performance, and support data dri
   Viewer behavior and content engagement analysis in a streaming platform context.
 
 ### 🔗 Links
-- 🌐 Portfolio Website: *(coming soon)*
-- 📊 Tableau Public: *(link)*
-- 💼 LinkedIn: *(link)*
+- 🌐 Portfolio Website
+- 📊 Tableau Public
+- 💼 LinkedIn

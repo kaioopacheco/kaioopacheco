@@ -28,3 +28,4 @@ I work with data to uncover patterns, evaluate performance, and support data dri
 - 🌐 Portfolio Website
 - 📊 Tableau Public
 - 💼 LinkedIn
+- 📄 Resume

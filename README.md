@@ -25,7 +25,7 @@ I work with data to uncover patterns, evaluate performance, and support data dri
   Viewer behavior and content engagement analysis in a streaming platform context.
 
 ### 🔗 Links
-[🌐 Portfolio](https://www.kaiopacheco.com)
-[📊 Tableau](https://public.tableau.com/app/profile/kaio.pacheco/vizzes)
-[💼 LinkedIn](https://www.linkedin.com/in/kaiopacheco)
-[📄 Resume](https://www.kaiopacheco.com/resume)
+- [🌐 Portfolio](https://www.kaiopacheco.com)
+- [📊 Tableau](https://public.tableau.com/app/profile/kaio.pacheco/vizzes)
+- [💼 LinkedIn](https://www.linkedin.com/in/kaiopacheco)
+- [📄 Resume](https://www.kaiopacheco.com/resume)

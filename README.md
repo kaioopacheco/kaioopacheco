@@ -15,7 +15,7 @@ I work with data to uncover patterns, evaluate performance, and support data dri
 - **[Discount Dependency in RetailCo Net Revenue](https://github.com/kaioopacheco/discount-dependency-retailco)** *(SQL and Python)*  
   Analysis of how discount strategies influence net revenue in a retail environment.
 
-- **[Retail Demand Signals and Projections](https://github.com/kaioopacheco/retail-demand-signals-and-projections-olist)** *(Python)*  
+- **[Olist Retail Demand Signals and Projections](https://github.com/kaioopacheco/retail-demand-signals-and-projections-olist)** *(Python)*  
   Time series analysis and demand projection based on historical retail data.
 
 - **[Marketing Campaign Analysis](https://github.com/kaioopacheco/marketing-campaign-analysis)** *(SQL)*  

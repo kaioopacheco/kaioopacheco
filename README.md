@@ -21,7 +21,7 @@ I work with data to uncover patterns, evaluate performance, and support data dri
 - **[Marketing Campaign Analysis](https://github.com/kaioopacheco/marketing-campaign-analysis)** *(SQL)*  
   Performance analysis of marketing campaigns with a focus on effectiveness and engagement.
 
-- **[Content Based Drop-off Analysis in OTT Streaming](https://github.com/kaioopacheco/contend-based-drop-off-analysis)** *(R)*  
+- **[Content Based Drop-off Analysis in OTT Streaming](https://github.com/kaioopacheco/content-based-drop-off-analysis)** *(R)*  
   Viewer behavior and content engagement analysis in a streaming platform context.
 
 ### 🔗 Links
